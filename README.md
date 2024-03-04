@@ -1,2 +1,2 @@
-# DesarrolloWeb
-Proyecto BarberTalk
+# BarberTalk
+Creación del proyecto de la barberia
